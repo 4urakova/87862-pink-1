@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Наталья Чуракова](https://up.htmlacademy.ru/adaptive/7/user/87862).
-* Наставник: `Неизвестно`.
+* Наставник: [Без наставника].
 
 ---
 
